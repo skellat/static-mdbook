@@ -1,0 +1,3 @@
+[submodule "auto-newspaper"]
+	path = auto-newspaper
+	url = https://git.launchpad.net/~skellat/+git/auto-newspaper

@@ -3,4 +3,4 @@ authors = ["Stephen Michael Kellat"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Ashtabula Writings"
+title = "Developing A Package For CTAN"
