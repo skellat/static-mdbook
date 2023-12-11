@@ -4,4 +4,5 @@
 
 # The Process
 
-- [Item 1](./item1.md)
+- [Rationale](./rationale.md)
+- [Structural Thought](./structure.md)

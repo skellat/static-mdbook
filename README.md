@@ -4,4 +4,4 @@ This is an experimental static site using mdbook.  Submissions are not accepted 
 
 Consult the work on Launchpad in the [auto-newspaper](https://code.launchpad.net/~skellat/+git/auto-newspaper) project.  If you clone this repository please make sure you use the command `git clone --recurse-submodules` to ensure you pick up the `auto-newspaper` submodule that is being included with this repository.  Things will get interesting, it seems.
 
-Oddly enough, writing this in Markdown does make it possible to still take the test and typeset it later using LaTeX thanks to the [markdown](https://ctan.org/pkg/markdown) package.
+Oddly enough, writing this in Markdown does make it possible to still take the text and typeset it later using LaTeX thanks to the [markdown](https://ctan.org/pkg/markdown) package.
