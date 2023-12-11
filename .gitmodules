@@ -1,3 +1,6 @@
 [submodule "auto-newspaper"]
 	path = auto-newspaper
 	url = https://git.launchpad.net/~skellat/+git/auto-newspaper
+[submodule "newspaper"]
+	path = newspaper
+	url = https://gitlab.com/DavidGriffith/newspaper.git
